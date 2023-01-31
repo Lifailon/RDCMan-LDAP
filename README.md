@@ -19,7 +19,7 @@
 
 3. Подставляем значения в синтаксис xml для формирования rdg-фала:
 
-**(RDCMan-LDAP.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP.ps1)**.
+**[RDCMan-LDAP.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP.ps1)**.
 
 ![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/RDCMan-List.jpg)
 
