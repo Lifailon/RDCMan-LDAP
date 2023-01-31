@@ -7,7 +7,7 @@
 
 **[RDCMan-LDAP-0.1.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.1.ps1)**.
 
-> Вывод можно конвертировать в csv или напрямую создать таблицу Excel.
+> Вывод можно импортировать в формат csv или напрямую создать таблицу Excel.
 
 ![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/Out-GridView-0.1.jpg)
 
