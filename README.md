@@ -3,7 +3,7 @@
 
 Скрипт разбит на три части, будет полезен для инвентаризации и визуализации списка всех комьютеров в формате таблицы (Out-GridView), по которой можно узнать Organizational Unit, в которой расположен компьютер.
 
-1. Получаем данные, парсим вывод, формируем объект массива, упорядочиваем и сортируем путь OU к компьютеру:
+### 1. Получаем данные, парсим вывод, формируем объект массива, упорядочиваем и сортируем путь OU к компьютеру:
 
 **[RDCMan-LDAP-0.1.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.1.ps1)**.
 
@@ -11,13 +11,13 @@
 
 ![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/Out-GridView-0.1.jpg)
 
-2. Пересобираем коллекцию, исключаем повторяющиеся имена групп и добавляем севера в свои OU:
+### 2. Пересобираем коллекцию, исключаем повторяющиеся имена групп и добавляем севера в свои OU:
 
 **[RDCMan-LDAP-0.2.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.2.ps1)**.
 
 ![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/Out-GridView-0.2.jpg)
 
-3. Подставляем значения в синтаксис xml для формирования rdg-фала:
+### 3. Подставляем значения в синтаксис xml для формирования rdg-фала:
 
 **[RDCMan-LDAP.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP.ps1)**.
 
