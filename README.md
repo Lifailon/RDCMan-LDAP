@@ -7,9 +7,9 @@
 
 **[Скачать (RDCMan-LDAP-0.1.ps1)](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.1.ps1)**.
 
-![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/Out-GridView-0.1.jpg)
-
 > Вывод можно конвертировать в csv или напрямую создать таблицу Excel.
+
+![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/Out-GridView-0.1.jpg)
 
 2. Пересобираем коллекцию, исключаем повторяющиеся имена групп и добавляем севера в свои OU:
 
