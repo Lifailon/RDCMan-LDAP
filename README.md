@@ -5,7 +5,7 @@
 
 1. Получаем данные, парсим вывод, формируем объект массива, упорядочиваем и сортируем путь OU к компьютеру:
 
-**[Скачать (RDCMan-LDAP-0.1.ps1)](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.1.ps1)**.
+**[RDCMan-LDAP-0.1.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.1.ps1)**.
 
 > Вывод можно конвертировать в csv или напрямую создать таблицу Excel.
 
@@ -13,13 +13,13 @@
 
 2. Пересобираем коллекцию, исключаем повторяющиеся имена групп и добавляем севера в свои OU:
 
-**[Скачать (RDCMan-LDAP-0.2.ps1)](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.2.ps1)**.
+**[RDCMan-LDAP-0.2.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP-0.2.ps1)**.
 
 ![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/Out-GridView-0.2.jpg)
 
 3. Подставляем значения в синтаксис xml для формирования rdg-фала:
 
-**[Скачать (RDCMan-LDAP.ps1)](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP.ps1)**.
+**(RDCMan-LDAP.ps1](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/RDCMan-LDAP.ps1)**.
 
 ![Image alt](https://github.com/Lifailon/RDCMan-LDAP/blob/rsa/Screen/RDCMan-List.jpg)
 
